@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dinobarton.github.io/VissioneerProj/static/css/main.f855e6bc.css",
+    "main.js": "/dinobarton.github.io/VissioneerProj/static/js/main.683894f4.js",
+    "static/js/453.c5597ac1.chunk.js": "/dinobarton.github.io/VissioneerProj/static/js/453.c5597ac1.chunk.js",
+    "index.html": "/dinobarton.github.io/VissioneerProj/index.html",
+    "main.f855e6bc.css.map": "/dinobarton.github.io/VissioneerProj/static/css/main.f855e6bc.css.map",
+    "main.683894f4.js.map": "/dinobarton.github.io/VissioneerProj/static/js/main.683894f4.js.map",
+    "453.c5597ac1.chunk.js.map": "/dinobarton.github.io/VissioneerProj/static/js/453.c5597ac1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.683894f4.js"
+  ]
+}
